@@ -18,7 +18,7 @@ namespace EvangelistSiteWeb.Controllers
         {
             var articles = new List<FeedItem>();
             //TO DO: This url needs to be an app setting
-            var feedUrl = "https://blogs.msdn.microsoft.com/martinkearn/feed/";
+            var feedUrl = "https://blogs.technet.microsoft.com/andrew/feed/";
             using (var client = new HttpClient())
             {
                 client.BaseAddress = new Uri(feedUrl);

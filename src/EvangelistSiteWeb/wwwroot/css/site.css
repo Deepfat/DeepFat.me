@@ -40,7 +40,7 @@ h4 {
 
 .jumbotron {
     color: #FE940D;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.4)), url('../images/banner-home.jpg');
+    background-image:  url('../images/banner-home.jpg');
     background-position: center center;
     margin-bottom: 0px;
     background-size: cover;
@@ -91,19 +91,19 @@ h4 {
 }
 
 .green-background {
-    background-color: #3AEAC8;
+    background-color: #a77db7;
 }
 
 .blue-background {
-    background-color: #0DABFE;
+    background-color: #ff9828;
 }
 
 .lightblue-background {
-    background-color: #00D4E7;
+    background-color: lightgray;
 }
 
 .teal-background {
-    background-color: #008E9A;
+    background-color: mediumpurple;
 }
 
 .copper-background {
@@ -115,7 +115,8 @@ h4 {
 }
 
 .darkblue-background {
-    background-color: #0074B1;
+    background-color:  rebeccapurple;
+    color: white;
 }
 
 .darkorange-background {
