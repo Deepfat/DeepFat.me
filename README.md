@@ -1,5 +1,5 @@
-# MartinK.me
-A launchpad for everything related to Martin Kearn. Published at [MartinK.me](http://MartinK.me)
+# Deepfat.me
+A launchpad for everything related to Andrew Fryer. Published at [MartinK.me](http://DeepFat.me)
 
 More changes coming (including better docs) in the next few weeks, but this is in decent shape now.
 
